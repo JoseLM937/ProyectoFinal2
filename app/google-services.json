@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932584787496",
+    "project_id": "chat-4da02",
+    "storage_bucket": "chat-4da02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932584787496:android:4037de33e70fffbc246f1d",
+        "android_client_info": {
+          "package_name": "com.jolome.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-l5ZEuClXWF8SvBZIJCJRZ0aHqwUrmtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
